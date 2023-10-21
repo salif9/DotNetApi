@@ -40,7 +40,7 @@ public class TestController: ControllerBase // the we build the controller class
 
     public string Test()
     {
-        return "your application is up and running";
+        return "Salifo Bance your application is up and running correctly on AZURE Yea!! now you need to build UI";
     }
 
 
